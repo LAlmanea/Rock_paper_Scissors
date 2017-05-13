@@ -1,4 +1,3 @@
-#Made by Latifah Almanea
 import time
 lose = ("The computer wins")
 win = ("You win")
